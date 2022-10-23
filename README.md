@@ -11,10 +11,12 @@ for always online.
 and wait load it again after load it too go to Your "config.json" file read this:
 
 ```json
-"TOKEN": "Enter here Your bot token",
-"channelId": "Enter here Your YouTube channel id",
-"DscChannelId": "Enter here Your YouTube notification list discord channel id",
-"ServerId": "Enter here Your Discord server id"
+{
+  "TOKEN": "Enter here Your bot token",
+  "channelId": "Enter here Your YouTube channel id",
+  "DscChannelId": "Enter here Your YouTube notification list discord channel id",
+  "ServerId": "Enter here Your Discord server id"
+}
 ```
 
 I write details above but You need to read that cause here I write for known all section
