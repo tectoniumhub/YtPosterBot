@@ -8,7 +8,7 @@ for always online.
 
 ### **Setup Guide:**
 **Replit Guide:** Fist click **Run on Replit** button and wait for load it after loading is complete You can click import button
-and wait load it again after load it too go to Your "config.json" file and read this:
+and wait load it again after load it too and go to Your "config.json" file and read this:
 
 ```json
 {
