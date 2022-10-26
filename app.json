@@ -2,5 +2,18 @@
   "name": "YtPosterBot",
   "description": "YouTube Notificer",
   "repository": "https://github.com/ULTRAOPMODI/YtPosterBot",
-  "version": "1.0.0"
+  "keywords": ["Mod", "Admin", "Staff"],
+  "env": {
+  "TOKEN": {
+   "description: "Enter here bot Token [https://<heroku_app_name>.herokuapp.com/api]",
+   "value": "https://<heroku_app_name>.herokuapp.com/api"
+  },
+  "channelId": {
+   "description": "Enter here Your YouTube channel ID [https://<heroku_app_name>.herokuapp.com/api]",
+   "value": "https://<heroku_app_name>.herokuapp.com/api"
+  },
+  "DscChannelId": {
+   "description": "Enter here
+  }
+ }
 }
