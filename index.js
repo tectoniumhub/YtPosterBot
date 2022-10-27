@@ -29,7 +29,7 @@ Bot.once("ready", async () => {
  });
 });
 
-let servers = config.ServerId || process.env.ServerId;
+let Servers = config.ServerId || process.env.ServerId;
 let channels = config.channelId || process.env.channelId;
 let DscChannels = config.DscChannelId || process.env.DscChannelId;
 
