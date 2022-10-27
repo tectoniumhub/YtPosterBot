@@ -13,7 +13,12 @@
    "value": "https://<heroku_app_name>.herokuapp.com/api"
   },
   "DscChannelId": {
-   "description": "Enter here
+   "description": "Enter here Your discord notification channel id [https://<heroku_app_name>.heroku.com/api",
+   "value": "https://<heroku_app_name>.herokuapp.com/api"
+  },
+  "ServerId": {
+   "description": "Enter here Your discord server id [https://<heroku_app_name>.herokuapp.com/api]",
+   "value": "https://<heroku_app_name>.herokuapp.com/api"
   }
  }
 }
