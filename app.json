@@ -5,7 +5,7 @@
   "keywords": ["Mod", "Admin", "Staff"],
   "env": {
   "TOKEN": {
-   "description: "Enter here bot Token [https://<heroku_app_name>.herokuapp.com/api]",
+   "description": "Enter here bot Token [https://<heroku_app_name>.herokuapp.com/api]",
    "value": "https://<heroku_app_name>.herokuapp.com/api"
   },
   "channelId": {
