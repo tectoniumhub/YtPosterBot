@@ -6,8 +6,10 @@ You can make Your own **pingcord** with this project and this project is availab
 Today use this repository and deploy and Your own pingcord bot is working. make sure Your bot project host with any hosting servers
 for always online.
 
+[![Deploy on heroku](https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/ULTRAOPMODI/YtPosterBot)
+
 ### **Setup Guide:**
-**Replit Guide:** Fist click **Run on Replit** button and wait for load it after loading is complete You can click import button
+Fist click **Run on Replit** button and wait for load it after loading is complete You can click import button
 and wait load it again after load it too and go to Your "config.json" file and read this:
 
 ```json
