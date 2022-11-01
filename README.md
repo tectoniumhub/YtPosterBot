@@ -28,7 +28,7 @@ after all section fill up completed You can click run button and now Your bot is
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ULTRAOPMODI/YtPosterBot)
 
 
-***Thanks choosing YtPosterBot repository***
+***Thanks choosing YtPosterBot***
 
 > ### **Contact with me:**
 > If You have some problems or errors or issues then **DM** me on with **[Discord server](https://dsc.gg/upm)** or email me on: **[ULTRA OP MODI](tectonium2008git@gmail.com)** for fix Your bugs
